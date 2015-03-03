@@ -1,0 +1,27 @@
+{
+  "name": "key",
+  "version": "1.0.0",
+  "homepage": "https://github.com/coderaiser/key",
+  "authors": [
+    "coderaiser <mnemonic.enemy@gmail.com>"
+  ],
+  "description": "simple key binding",
+  "main": "lib/key.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "key",
+    "binding"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

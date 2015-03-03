@@ -1,0 +1,24 @@
+{
+  "name": "key",
+  "version": "1.0.0",
+  "description": "simple key binding",
+  "main": "lib/key.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coderaiser/key"
+  },
+  "keywords": [
+    "key",
+    "binding"
+  ],
+  "author": "coderaiser <mnemonic.enemy@gmail.com> (http://coderaiser.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coderaiser/key/issues"
+  },
+  "homepage": "https://github.com/coderaiser/key"
+}
