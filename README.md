@@ -1,7 +1,7 @@
 Key
 =======
 
-Simple key binding.
+Simple key parser.
 
 ## Install
 
@@ -10,8 +10,9 @@ Simple key binding.
 ## Use
 
 ```js
-    key('Ctrl-A|Cmd-A', function() {
-        console.log('this is how key works');
+    window.addEventListener('keydown', function(event) {
+        if (key('Ctrl-A|Cmd-A', event)
+            console.log('this is how key works');
     });
 ```
 

@@ -1,7 +1,7 @@
 {
   "name": "key",
   "version": "1.1.2",
-  "description": "simple key binding",
+  "description": "simple key parser",
   "main": "lib/key.js",
   "private": true,
   "scripts": {
